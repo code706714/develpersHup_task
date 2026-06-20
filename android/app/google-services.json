@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018069072111",
+    "project_id": "dev-hub-task",
+    "storage_bucket": "dev-hub-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018069072111:android:4eb4aa4406cdea0f98431a",
+        "android_client_info": {
+          "package_name": "com.example.dev_hup_task_week_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-j5gXcrJj1vzxXfZeQcSEX9s41uOX2tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
